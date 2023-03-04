@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945577638949",
+    "project_id": "curso-flutter-formulario",
+    "storage_bucket": "curso-flutter-formulario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945577638949:android:12ca2450dd6548394a53cc",
+        "android_client_info": {
+          "package_name": "com.example.curso_flutter_formulario_amador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945577638949-spn07314j2os56jqo3uls3cut6c77eeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcr-EH4PRsJ2HvnQZGSj5dkwwvxK8W_3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945577638949-spn07314j2os56jqo3uls3cut6c77eeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
